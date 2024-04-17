@@ -1,6 +1,9 @@
 Hey! I'm ella.
+---
 I'm an AI enthusiast who loves to work with experimental models and integrating them into applications you wouldn't expect!
+
 I can write in JS, TS, Java, Python and C++
+
 I make bots, java applications and tiny CLI's to pass the time.
 
 <!---
